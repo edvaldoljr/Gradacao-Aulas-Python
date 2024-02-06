@@ -1,4 +1,5 @@
-#Este é um caso que verdadeiro ou um falso na idade não resolve, pois precisamos verificar se a idade do paciente é
+#Este é um caso que verdadeiro ou um falso na idade não resolve, pois
+# precisamos verificar se a idade do paciente é
 #maior ou igual a 65 anos e, se a resposta for FALSA, devemos verificar ainda se o paciente está com suspeita de doença
 #infecto-contagiosa. E se, ainda assim for FALSA  a condição, então podemos considerar que o paciente deve aguardar sem
 #prioridade na sala comum de espera
